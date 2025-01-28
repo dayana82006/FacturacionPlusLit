@@ -60,10 +60,4 @@ El proyecto se organiza en **componentes reutilizables**, diseñados para cubrir
 
 ---
 
-## **Instalación y Ejecución**
 
-Sigue los pasos a continuación para instalar y ejecutar el proyecto:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
